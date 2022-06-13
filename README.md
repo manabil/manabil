@@ -63,6 +63,10 @@
 
 <div align="center">
 
+ ## 🏗 Current Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manabil&repo=vespaku&show_owner=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)](https://github.com/manabil/Vespaku)
+</br>
+
 ## 📃 My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=151515)
