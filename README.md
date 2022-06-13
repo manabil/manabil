@@ -65,9 +65,9 @@
 
 ## 📃 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=151515)
 
-![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=manabil&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353)
+![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=manabil&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manabil&theme=dark" alt="manabil" /></p>
 
