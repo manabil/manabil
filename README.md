@@ -2,9 +2,6 @@
 
 <h1>Hi, I'm Muhammad Ammar Nabil👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
     
-![This is a alt text.](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
-
-
 </div>
 <div align="center">
 
@@ -82,6 +79,8 @@
 ![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
 <br>
 <br>
+
+![This is a alt text.](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 
 <!---
 manabil/manabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
