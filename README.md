@@ -1,8 +1,10 @@
 <div align="center">
 
+<h1>Hi, I'm Muhammad Ammar Nabil👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
+    
 ![This is a alt text.](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 
-<h1>Hi, I'm Muhammad Ammar Nabil👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
+
 </div>
 <div align="center">
 
@@ -66,9 +68,9 @@
 
 ## 📃 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&langs_count=10)
 
-![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=manabil&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353)
+![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=manabil&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manabil&theme=dark" alt="manabil" /></p>
 
