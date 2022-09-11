@@ -40,25 +40,35 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
         
 </details>
-  
-<details>
-
-<summary><h3>Web Development</h3></summary>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-</details>
-
+ 
 <details>
 
 <summary><h3>Web Framework</h3></summary>
 
 </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
+<a href="https://github.com/hapijs/hapi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" alt="hapijs" width="60" height="40"/> </a> 
+
+</details>
+ 
+<details>
+
+<summary><h3>Web Development</h3></summary>
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="100" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+
+</details>
+
+<details>
+
+<summary><h3>Database</h3></summary>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgre" width="40" height="40"/> </a>
 
 </details>
 
@@ -77,10 +87,15 @@
 
 <details>
 
-<summary><h3>AI, ML, and Deep Learning</h3></summary>
+<summary><h3>Machine Learning</h3></summary>
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="100" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikitlearn" width="100" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> </a> 
 
 </details>
 
