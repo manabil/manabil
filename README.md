@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Muhammad Ammar Nabil👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
+<h1>Hi, I'm Muhammad Ammar Nabil👋</h1>
     
 </div>
 <div align="center">
@@ -132,7 +132,12 @@
 <br>
 <br>
 
-![This is a alt text.](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
+<h5><i>"Code, Sleep, Lofi"</i></h5>
+
+</div>
 
 <!---
 manabil/manabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
