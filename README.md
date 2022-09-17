@@ -5,6 +5,10 @@
 </div>
 <div align="center">
 
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
+![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
+
 ![GitHub followers](https://img.shields.io/github/followers/manabil)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=manabil.manabil) 
 ![Viewer](https://komarev.com/ghpvc/?username=manabil)
@@ -115,31 +119,22 @@
 
 <summary><h2>📃 My Stats</h2></summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabil&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)&nbsp;&nbsp;&nbsp;
 ![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=manabil&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=0d1117)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manabil&theme=dark&bg_color=0d1117" alt="manabil" /></p>
+
+![](https://activity-graph.herokuapp.com/graph?username=manabil&theme=gotham)
 
 </details>
 
 </div>
 
-## 🤙 Call me 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
-![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
-<br>
-<br>
-
 <div align="center">
+
+---
 
 <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
 <h5><i>"Code, Sleep, Lofi"</i></h5>
 
 </div>
-
-<!---
-manabil/manabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
