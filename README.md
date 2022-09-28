@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Muhammad Ammar Nabil👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=2EF77D&center=true&vCenter=true&width=435&lines=Data+Enthusiast%F0%9F%93%8A;Backend+Developer%F0%9F%92%BB;Love+with+Data%F0%9F%93%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Data+Enthusiast;%F0%9F%92%BB+Backend+Developer;%F0%9F%93%84+Love+with+Data)](https://git.io/typing-svg)
     
 </div>
 <div align="center">
