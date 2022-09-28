@@ -7,16 +7,8 @@
 </div>
 <div align="center">
 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
-![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
-
-![GitHub followers](https://img.shields.io/github/followers/manabil)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=manabil.manabil) 
-![Viewer](https://komarev.com/ghpvc/?username=manabil)
-
-
 **Code For Life and Life For Code** is my motto. I really love code and make programs that can be useful for everyone. For me coding is how to work everything with fully autonomous. I like everything that can make me curious 🔬
+
 </div>
 
 - 🌱 I’m currently learning what i like
@@ -138,5 +130,13 @@
 
 <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
 <h5><i>"Code, Sleep, Lofi"</i></h5>
+
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
+![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
+
+![GitHub followers](https://img.shields.io/github/followers/manabil)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=manabil.manabil) 
+![Viewer](https://komarev.com/ghpvc/?username=manabil)
 
 </div>
