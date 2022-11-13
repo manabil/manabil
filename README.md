@@ -131,7 +131,7 @@
 <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
 <h5><i>"Code, Sleep, Lofi"</i></h5>
 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
+[![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil)](https://github.com/manabil)
 ![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
 ![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
 
