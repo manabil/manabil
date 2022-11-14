@@ -135,8 +135,7 @@
 ![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
 ![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/manabil)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=manabil.manabil) 
+[![wakatime](https://wakatime.com/badge/user/3728d51b-5754-4c6c-8d6d-9a2640430efe.svg)](https://wakatime.com/@3728d51b-5754-4c6c-8d6d-9a2640430efe)
 ![Viewer](https://komarev.com/ghpvc/?username=manabil)
 
 </div>
