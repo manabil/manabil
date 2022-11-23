@@ -1,0 +1,39 @@
+name: Commitor
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Everhours
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Initializing repo
+      - uses: actions/checkout@v3
+    
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.7"
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -am "daily update" --allow-empty)
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
