@@ -50,7 +50,7 @@ def generateMarkdown():
         elif isThirtiethSept():
             lines[132] = f'<h5>"Happy Independece Day 🇮🇩🛡🔫"</h5>'
         else:
-            lines[132] = f'<h5><i>"{weekDays()}"</i></h5>'
+            lines[132] = f'<h5><i>"{weekDays()}"</i></h5>\n'
             
 
     with open('README.md', 'w', encoding='utf-8') as file:
