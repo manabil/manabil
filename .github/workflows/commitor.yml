@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Excute python script
+
       - name: Initializing repo
       - uses: actions/checkout@v3
 
