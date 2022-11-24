@@ -24,7 +24,7 @@ jobs:
       - name: Execute python script # run main.py
         run: python myLifetime.py
 
-      - name: commit files
+      - name: Commit files
         run: |
           git config --local user.email "mammarnabil@students.unnes.ac.id"
           git config --local user.name "manabil"
