@@ -38,7 +38,7 @@ def generateMarkdown():
 
     with open('README.md', 'r', encoding='utf-8') as file:
         lines = file.readlines()
-        lines[17] = f"- ⏳ I've been alive for {delta_time.years} years {delta_time.months} months {delta_time.days} days\n"
+        lines[17] = f"- ⏳ I've been alive for {datetime.days} days\n"
         if isBirthday():
             lines[132] = f'<h5><i>"It is my birthday ? Ah i forgot it 🙂"</i></h5>'
         elif isIndependenceDay():
