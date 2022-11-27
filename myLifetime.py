@@ -1,5 +1,5 @@
 import datetime
-from dateutil import relativedelta
+# from dateutil import relativedelta
 
 def getDays(date) -> str:
     return date.strftime('%a')
@@ -38,7 +38,7 @@ def generateMarkdown():
 
     with open('README.md', 'r', encoding='utf-8') as file:
         lines = file.readlines()
-        lines[17] = f"- ⏳ I've been alive for {datetime.days} days\n"
+        lines[17] = f"- ⏳ I've been alive for {(now_date - my_date).days} days\n"
         if isBirthday():
             lines[132] = f'<h5><i>"It is my birthday ? Ah i forgot it 🙂"</i></h5>'
         elif isIndependenceDay():
@@ -75,6 +75,6 @@ def weekDays():
 now_date = datetime.datetime.now()
 my_unixtime_stamp = 1000405800
 my_date = datetime.datetime.fromtimestamp(my_unixtime_stamp)
-delta_time = relativedelta.relativedelta(now_date, my_date)
+# delta_time = relativedelta.relativedelta(now_date, my_date)
 
 generateMarkdown()
