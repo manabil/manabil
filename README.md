@@ -15,7 +15,7 @@
 - 🎵 Love playing lofi music and coding
 - 🧿 Start to learn Machine Learning journey
 - 💬 Ask me about anything
-- ⏳ I've been alive for 7925 days
+- ⏳ I've been alive for 7926 days
   </br>
 
 <div align="center">
@@ -130,7 +130,7 @@
 ---
 
 <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
-<h5><i>"Ahh, It's the weekend 😎"</i></h5>
+<h5><i>"Tomorrow is monday again 😌"</i></h5>
 
 [![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil)](https://github.com/manabil)
 ![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism)
