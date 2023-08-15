@@ -1,9 +1,8 @@
-name: Daily Commit v2
+name: Daily Commit
 
-on: workflow_dispatch
-# on:
-#   schedule:
-#     - cron: '0 0 * * *' # Everyday At 00:00
+on:
+  schedule:
+    - cron: '0 0 * * *' # Everyday At 00:00
 
 jobs:
   generate-markdown:
