@@ -15,7 +15,7 @@
 - 🎵 Love playing lofi music and coding
 - 🧿 Start to learn Machine Learning journey
 - 💬 Ask me about anything
-- 🛌 I've spent 2335 days of my life asleep
+- 🛌 I've spent 44 months of my life asleep
   </br>
 
 <div align="center">
