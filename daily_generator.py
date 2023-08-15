@@ -47,11 +47,11 @@ def get_weekdays(date_now: datetime) -> str:
     else:
         return "Tomorrow is monday again 😌";
 
-def generateMarkdown(date_now: datetime,
-                     specific_date: datetime,
-                     min_sleep: int,
-                     max_sleep: int,
-                     month: int) -> None:
+def generate_markdown(date_now: datetime,
+                      specific_date: datetime,
+                      min_sleep: int,
+                      max_sleep: int,
+                      month: int) -> None:
     lines: list = [];
     delta_days: int = (date_now - specific_date).days;
     sleep: int = randint(a=min_sleep, b=max_sleep);
@@ -102,7 +102,7 @@ if __name__ == "__main__":
     today: datetime = datetime.now();
     unix_date: datetime= datetime.fromtimestamp(unixtime);
     
-    generateMarkdown(
+    generate_markdown(
         date_now=today,
         specific_date=unix_date,
         min_sleep=min,
