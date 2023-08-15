@@ -49,12 +49,12 @@ def get_weekdays(date_now: datetime) -> str:
 
 def generateMarkdown(date_now: datetime,
                      specific_date: datetime,
-                     a: int,
-                     b: int,
+                     min_sleep: int,
+                     max_sleep: int,
                      month: int) -> None:
     lines: list = [];
     delta_days: int = (date_now - specific_date).days;
-    sleep: int = randint(a=a, b=b);
+    sleep: int = randint(a=min_sleep, b=max_sleep);
 
     with open('README.md', 'r', encoding='utf-8') as file:
         lines = file.readlines();
@@ -98,14 +98,14 @@ if __name__ == "__main__":
     b: int;
     month: int;
     unixtime: int;
-    a, b, month, unixtime = get_variable();
+    min, max, month, unixtime = get_variable();
     today: datetime = datetime.now();
     unix_date: datetime= datetime.fromtimestamp(unixtime);
     
     generateMarkdown(
         date_now=today,
         specific_date=unix_date,
-        a=a,
-        b=b,
+        min_sleep=min,
+        max_sleep=max,
         month=month
     );
