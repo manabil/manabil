@@ -17,7 +17,7 @@ jobs:
           python-version: '3.7'
 
       - name: Execute python script # run main.py
-        run: python myLifetime.py
+        run: python daily_generator.py
 
       - name: Commit files
         run: |
