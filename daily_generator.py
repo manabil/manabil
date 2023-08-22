@@ -58,19 +58,19 @@ def generate_markdown(date_now: datetime,
 
     with open('README.md', 'r', encoding='utf-8') as file:
         lines = file.readlines();
-        lines[17] = f"- 🛌 I've spent {((delta_days * sleep) // 24) // month} months of my life asleep\n"
+        lines[19] = f"- 🛌 I've spent {((delta_days * sleep) // 24) // month} months of my life asleep\n"
 
         if is_independence_day(date_now=date_now)[0]:
             id_age: int = is_independence_day(date_now=date_now)[1];
-            lines[132] = f'<h5><i>"Happy Independence Day {id_age} Indonesia 🇮🇩🔥"</i></h5>\n';
+            lines[11] = f'<h5><i>"Happy Independence Day {id_age} Indonesia 🇮🇩🔥"</i></h5>\n';
         elif is_kartini_day(date_now=date_now):
-            lines[132] = '<h5><i>"Happy Kartini Day 🇮🇩👵"</i></h5>\n';
+            lines[11] = '<h5><i>"Happy Kartini Day 🇮🇩👵"</i></h5>\n';
         elif is_youth_pledge(date_now=date_now):
-            lines[132] = '<h5><i>"Happy Youth Pledge Day 🇮🇩✊👊"</i></h5>\n';
+            lines[11] = '<h5><i>"Happy Youth Pledge Day 🇮🇩✊👊"</i></h5>\n';
         elif is_thirty_sept(date_now=date_now):
-            lines[132] = '<h5>"Happy Independence Day 🇮🇩🛡🔫"</h5>\n';
+            lines[11] = '<h5>"Happy Independence Day 🇮🇩🛡🔫"</h5>\n';
         else:
-            lines[132] = f'<h5><i>"{get_weekdays(date_now=date_now)}"</i></h5>\n';
+            lines[11] = f'<h5><i>"{get_weekdays(date_now=date_now)}"</i></h5>\n';
 
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(lines);
