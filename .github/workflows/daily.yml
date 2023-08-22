@@ -1,0 +1,39 @@
+name: !!str Daily
+
+on: !!map
+  schedule: !!seq
+    - cron: !!str '0 0 * * *' # Everyday At 00:00
+ 
+jobs: !!map
+  generate-markdown: !!map
+    runs-on: !!str ubuntu-latest
+    env: !!map
+      MIN_SLEEP: !!str ${{ secrets.MIN_SLEEP }}
+      MAX_SLEEP: !!str ${{ secrets.MAX_SLEEP }}
+      MONTH: !!str ${{ secrets.MONTH }}
+      UNIXTIME: !!str ${{ secrets.UNIXTIME }}
+    
+    steps: !!seq
+      - name: !!str Initializing repo
+        uses: !!str actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: !!str Setup python
+        uses: !!str actions/setup-python@v4
+        with: !!map
+          python-version: !!str '3.7'
+
+      - name: !!str Execute python script 
+        run: !!str python daily_generator.py $MIN_SLEEP $MAX_SLEEP $MONTH -u $UNIXTIME
+
+      - name: !!str Commit files
+        run: !!str |
+          git config --local user.email "mammarnabil@students.unnes.ac.id"
+          git config --local user.name "manabil"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -am "daily update" --allow-empty)
+
+      - name: !!str Push changes
+        uses: !!str ad-m/github-push-action@v0.6.0
+        with: !!map
+          github_token: !!str ${{ secrets.GITHUB_TOKEN }}
+          branch: !!str main
