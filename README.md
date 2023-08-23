@@ -7,9 +7,9 @@
   [![wakatime](https://wakatime.com/badge/user/3728d51b-5754-4c6c-8d6d-9a2640430efe.svg)](https://wakatime.com/@3728d51b-5754-4c6c-8d6d-9a2640430efe)
   ![Viewer](https://komarev.com/ghpvc/?username=manabil)
   
-  **Manualization is a form of laziness to make it automatic** is my motto. Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. I like everything that can make me curious 🔬
+  Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. For me **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-<h5><i>"Halfway through the week 🙃"</i></h5>
+    <i>"Halfway through the week 🙃"</i>
   </h5>
 </div>
 
