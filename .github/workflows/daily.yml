@@ -5,7 +5,7 @@ on: !!map
     - cron: !!str '0 0 * * *' # Everyday At 00:00
  
 jobs: !!map
-  generate-markdown: !!map
+  generate: !!map
     runs-on: !!str ubuntu-latest
     env: !!map
       MIN_SLEEP: !!str ${{ secrets.MIN_SLEEP }}
@@ -24,6 +24,9 @@ jobs: !!map
 
       - name: !!str Execute python script 
         run: !!str python daily_generator.py $MIN_SLEEP $MAX_SLEEP $MONTH -u $UNIXTIME
+
+      - name: !!str Show results
+        run: !!str sed -n "12,20p" README.md
 
       - name: !!str Commit files
         run: !!str |
