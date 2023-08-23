@@ -1,4 +1,4 @@
-name: !!str Daily Manual
+name: !!str Daily Check
 
 on: !!str workflow_dispatch
  
@@ -26,15 +26,5 @@ jobs: !!map
       - name: !!str Show results
         run: !!str sed -n "12,20p" README.md
 
-      - name: !!str Commit files
-        run: !!str |
-          git config --local user.email "mammarnabil@students.unnes.ac.id"
-          git config --local user.name "manabil"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -am "daily update" --allow-empty)
-
-      - name: !!str Push changes
-        uses: !!str ad-m/github-push-action@v0.6.0
-        with: !!map
-          github_token: !!str ${{ secrets.GITHUB_TOKEN }}
-          branch: !!str main
+      - name: !!str Check README
+        run: !!str cat README.md
