@@ -1,4 +1,4 @@
-name: !!str Daily Check
+name: !!str Test
 
 on: !!str workflow_dispatch
  
