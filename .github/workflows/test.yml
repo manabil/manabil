@@ -17,8 +17,6 @@ jobs: !!map
 
       - name: !!str Setup python
         uses: !!str actions/setup-python@v4
-        with: !!map
-          python-version: !!str '3.7'
 
       - name: !!str Execute python script 
         run: !!str python daily_generator.py $MIN_SLEEP $MAX_SLEEP $MONTH -u $UNIXTIME
