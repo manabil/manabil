@@ -34,7 +34,7 @@ def is_thirty_sept(date_now: datetime) -> bool:
 
 def generate_quote(date_now: datetime) -> str:
     API_URL: str = "https://zenquotes.io/api/random"
-    response: requests.models.Response = requests.get(api_url)
+    response: requests.models.Response = requests.get(API_URL)
     
     if(response.status_code == requests.codes.ok):
         return response.json()[0]["q"]
