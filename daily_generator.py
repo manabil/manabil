@@ -1,8 +1,8 @@
+import requests
 from argparse import ArgumentParser, Namespace
 from datetime import datetime, date
 from random import randint
 from typing import Optional
-
 
 def is_independence_day(date_now: datetime) -> tuple[bool, Optional[int]]:
     id_independences: date = date(1945, 8, 17)
@@ -32,7 +32,13 @@ def is_thirty_sept(date_now: datetime) -> bool:
         return True
     return False
 
-def get_weekdays(date_now: datetime) -> str:
+def generate_quote(date_now: datetime) -> str:
+    API_URL: str = "https://zenquotes.io/api/random"
+    response: requests.models.Response = requests.get(api_url)
+    
+    if(response.status_code == requests.codes.ok):
+        return response.json()[0]["q"]
+
     if(date_now.strftime("%a") == 'Mon'):
         return "Why's monday so far from friday ? 👀"
     elif(date_now.strftime("%a") == 'Tue'):
@@ -45,8 +51,7 @@ def get_weekdays(date_now: datetime) -> str:
         return "We made it, It's finally friday 🥳"
     elif(date_now.strftime("%a") == 'Sat'):
         return "Ahh, It's the weekend 😎"
-    else:
-        return "Tomorrow is monday again 😌"
+    return "Tomorrow is monday again 😌"
 
 def generate_markdown(date_now: datetime,
                       specific_date: datetime,
@@ -73,7 +78,7 @@ def generate_markdown(date_now: datetime,
         elif is_thirty_sept(date_now=date_now):
             lines[11] = '    <i>"Happy 30 September Movement Day 🇮🇩🛡🔫"</i>\n'
         else:
-            lines[11] = f'    <i>"{get_weekdays(date_now=date_now)}"</i>\n'
+            lines[11] = f'    <i>"{generate_quote(date_now=date_now)}"</i>\n'
 
     with open('README.md', 'w', encoding='utf-8') as file:
         file.writelines(lines)
@@ -97,8 +102,8 @@ def get_variable() -> tuple[int, ...]:
 
 
 if __name__ == "__main__":
-    a: int
-    b: int
+    min: int
+    max: int
     month: int
     unixtime: int
     min, max, month, unixtime = get_variable()
