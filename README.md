@@ -7,7 +7,7 @@
   [![wakatime](https://wakatime.com/badge/user/3728d51b-5754-4c6c-8d6d-9a2640430efe.svg)](https://wakatime.com/@3728d51b-5754-4c6c-8d6d-9a2640430efe)
   ![Viewer](https://komarev.com/ghpvc/?username=manabil)
   
-  Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. For me **Manualization is a form of laziness to make it automatic** 🔥
+  Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
     <i>"Conscience is a man's compass. "</i>
   </h5>
