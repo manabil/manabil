@@ -6,29 +6,29 @@ from typing import Optional
 
 def is_independence_day(date_now: datetime) -> tuple[bool, Optional[int]]:
     id_independences: date = date(1945, 8, 17)
-    if(id_independences.day == date_now.day
-       and id_independences.month == date_now.month):
+    if (id_independences.day == date_now.day
+        and id_independences.month == date_now.month):
         return True, date_now.year - id_independences.year
     return False, None
 
 def is_kartini_day(date_now: datetime) -> bool:
     kartini_days: date = date(1879, 4, 21)
-    if(kartini_days.day == date_now.day
-       and kartini_days.month == date_now.month):
+    if (kartini_days.day == date_now.day
+        and kartini_days.month == date_now.month):
         return True
     return False
 
 def is_youth_pledge(date_now: datetime) -> bool:
     youth_pledge_days: date = date(1928, 10, 28)
-    if(youth_pledge_days.day == date_now.day
-       and youth_pledge_days.month == date_now.month):
+    if (youth_pledge_days.day == date_now.day
+        and youth_pledge_days.month == date_now.month):
         return True
     return False
 
 def is_thirty_sept(date_now: datetime) -> bool:
     thirty_sept_days: date = date(1965, 9, 30)
-    if(thirty_sept_days.day == date_now.day
-       and thirty_sept_days.month == date_now.month):
+    if (thirty_sept_days.day == date_now.day
+        and thirty_sept_days.month == date_now.month):
         return True
     return False
 
@@ -36,20 +36,20 @@ def generate_quote(date_now: datetime) -> str:
     API_URL: str = "https://zenquotes.io/api/random"
     response: requests.models.Response = requests.get(API_URL)
     
-    if(response.status_code == requests.codes.ok):
+    if (response.status_code == requests.codes.ok):
         return response.json()[0]["q"]
 
-    if(date_now.strftime("%a") == 'Mon'):
+    if (date_now.strftime("%a") == 'Mon'):
         return "Why's monday so far from friday ? 👀"
-    elif(date_now.strftime("%a") == 'Tue'):
+    elif (date_now.strftime("%a") == 'Tue'):
         return "It's just a second monday 😪"
-    elif(date_now.strftime("%a") == 'Wed'):
+    elif (date_now.strftime("%a") == 'Wed'):
         return "Halfway through the week 🙃"
-    elif(date_now.strftime("%a") == 'Thu'):
+    elif (date_now.strftime("%a") == 'Thu'):
         return "Yeay tomorrow is friday 😬"
-    elif(date_now.strftime("%a") == 'Fri'):
+    elif (date_now.strftime("%a") == 'Fri'):
         return "We made it, It's finally friday 🥳"
-    elif(date_now.strftime("%a") == 'Sat'):
+    elif (date_now.strftime("%a") == 'Sat'):
         return "Ahh, It's the weekend 😎"
     return "Tomorrow is monday again 😌"
 
