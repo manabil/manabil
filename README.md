@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Worry is a waste of emotional reserve."</i>
+    <i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
   </h5>
 </div>
 
