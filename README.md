@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+    <i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
   </h5>
 </div>
 
@@ -17,7 +17,7 @@
 - 🎵 Love playing lofi music and coding
 - 🧿 Start to learn Machine Learning journey
 - 💬 Ask me about anything via linkedin
-- 🛌 I've spent 35 months of my life asleep
+- 🛌 I've spent 59 months of my life asleep
   
 <div align="center">
   
