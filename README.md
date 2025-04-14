@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+    <i>"Don't think money does everything or you are going to end up doing everything for money."</i>
   </h5>
 </div>
 
