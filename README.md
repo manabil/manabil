@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Belief creates the actual fact."</i>
+    <i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
   </h5>
 </div>
 
