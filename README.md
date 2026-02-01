@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+    <i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
   </h5>
 </div>
 
@@ -17,7 +17,7 @@
 - 🎵 Love playing lofi music and coding
 - 🧿 Start to learn Machine Learning journey
 - 💬 Ask me about anything via linkedin
-- 🛌 I've spent 61 months of my life asleep
+- 🛌 I've spent 98 months of my life asleep
   
 <div align="center">
   
