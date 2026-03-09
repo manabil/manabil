@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
+    <i>"There is a big difference between being centered and being self-centered."</i>
   </h5>
 </div>
 
