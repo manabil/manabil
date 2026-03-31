@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Honor is the foundation of courage."</i>
+    <i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
   </h5>
 </div>
 
