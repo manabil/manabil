@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"Facts are the enemy of truth."</i>
+    <i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
   </h5>
 </div>
 
