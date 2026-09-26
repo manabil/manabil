@@ -9,7 +9,7 @@
   
   Hopefully my code can be read by others easily. For me coding is how to work everything with fully autonomous. **Manualization is a form of laziness to make it automatic** 🔥
   <h5>
-    <i>"A life without a cause is a life without effect."</i>
+    <i>"20 percent of your activities will account for 80 percent of your results."</i>
   </h5>
 </div>
 
@@ -17,7 +17,7 @@
 - 🎵 Love playing lofi music and coding
 - 🧿 Start to learn Machine Learning journey
 - 💬 Ask me about anything via linkedin
-- 🛌 I've spent 101 months of my life asleep
+- 🛌 I've spent 76 months of my life asleep
   
 <div align="center">
   
